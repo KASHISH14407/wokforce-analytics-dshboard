@@ -1,4 +1,4 @@
-<img width="1271" height="836" alt="dashboard" src="https://github.com/user-attachments/assets/9bf6f2fd-770d-429b-b73c-685a50ca11c0" /> SafeShift Analytics – Workforce Safety & Attendance Dashboard
+ – Workforce Safety & Attendance Dashboard
 ![Dashboard Preview](dashboard.png)
 
 ## Overview

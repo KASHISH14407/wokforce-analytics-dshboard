@@ -1,4 +1,4 @@
- SafeShift Analytics – Workforce Safety & Attendance Dashboard
+ Workforce Safety & Attendance Dashboard
 
 ![Dashboard Preview](dashboard.png)
 

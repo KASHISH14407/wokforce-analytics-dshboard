@@ -1,6 +1,6 @@
  Workforce Safety & Attendance Dashboard
 
-![Dashboard Preview](dashboard)
+![Dashboard Preview](dashboard.png)
 
 ## Overview
 

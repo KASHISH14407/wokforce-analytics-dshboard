@@ -37,7 +37,7 @@ The dashboard helps monitor:
 
 ## Workforce Analytics Dashboard
 
-![Workforce Dashboard](dash.png)
+![Workforce Dashboard](Dash.png)
 
 ---
 
